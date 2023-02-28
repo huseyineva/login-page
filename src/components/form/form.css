@@ -1,0 +1,11 @@
+.form {
+  background-color: rgba(116, 69, 160, 0.334);
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 2px 5px #de64dc33;
+  border-radius: 10px;
+  opacity: 0.8;
+}
