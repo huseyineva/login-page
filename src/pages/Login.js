@@ -26,7 +26,7 @@ function Login() {
   return (
     <div className="App">
       <Form onSubmit={handleClick}>
-        <h2>Login</h2>
+        <h2>Log</h2>
         <Input
           value={email}
           type={"email"}
